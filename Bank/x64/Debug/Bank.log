@@ -1,0 +1,75 @@
+﻿  Bank.cpp
+D:\c++\Bank\clsString.h(40,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsString.h(45,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsString.h(57,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsString.h(194,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsString.h(325,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsUsers.h(186,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank.cpp')
+      D:\c++\Bank\clsUsers.h(23,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\c++\Bank\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsBankClient.h(31,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsBankClient.h(401,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsBankClient.h(402,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsBankClient.h(403,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsBankClient.h(432,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsBankClient.h(438,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsBankClient.h(449,28): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsAddNewClientScreen.h(25,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsTransferScreen.h(43,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsTransferScreen.h(48,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsUtil.h(65,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsTotalBalacesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsTransactionsScreen.h(28,16): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\c++\Bank\clsBankClient.h(360,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\c++\Bank\clsUsers.h(344,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank.vcxproj -> D:\c++\Bank\x64\Debug\Bank.exe
